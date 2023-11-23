@@ -29,6 +29,6 @@ a=eval(input())
 n=int(input())
 ```
 ## Output:
-![OUTPUT](/answer.png)
+![OUTPUT](/ans.png)
 ## Result:
 The Circulate-the-values-of-N-variables is succeed.
