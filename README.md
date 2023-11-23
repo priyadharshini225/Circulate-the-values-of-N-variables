@@ -18,6 +18,7 @@ evaluate the a input.
 ### Step 6: 
 enter integer (n) in input.
 ## Program:
+```
 #Program to circulate N values.
 #Developed by: S.Priyadharshini
 #RegisterNumber: 23003522
@@ -26,6 +27,7 @@ def circulate():
     print("After circulating the values are:",b)
 a=eval(input())
 n=int(input())
+```
 ## Output:
 ![OUTPUT](/answer.png)
 ## Result:
